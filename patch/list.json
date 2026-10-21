@@ -2,33 +2,87 @@
   "patchVersion": "0.0.1",
   "appliedVersion": "0.0.0",
   "timestamp": 1760950975201,
-  "ChainInfo": {},
-  "ChainInfoHashMap": {},
+  "ChainInfo": {
+    "portaldot_v3_test": {
+      "slug": "portaldot_v3_test",
+      "name": "Portaldot V3 Testnet",
+      "isTestnet": false,
+      "chainStatus": "ACTIVE",
+      "icon": "https://cdn.githubraw.com/fsnick169/wallet-info/main/icons/chains/portaldot.png",
+      "providers": {
+        "Mainnet": "wss://test-node-v3.portaldot.dev"
+      },
+      "evmInfo": null,
+      "substrateInfo": {
+        "relaySlug": null,
+        "paraId": null,
+        "genesisHash": "0xd4f9acbcf7f52388d8b095abe3c198d19fc510e0343e643e87cfbccb155283bd",
+        "addressPrefix": 42,
+        "chainType": "RELAYCHAIN",
+        "crowdloanUrl": null,
+        "blockExplorer": "https://scanner-testnet-v3.portaldot.dev/",
+        "existentialDeposit": "10000000000000",
+        "symbol": "tPOT",
+        "decimals": 14,
+        "hasNativeNft": false,
+        "supportStaking": true,
+        "supportSmartContract": null,
+        "crowdloanParaId": null,
+        "crowdloanFunds": []
+      },
+      "extraInfo": {
+        "subscanSlug": null,
+        "chainBalanceSlug": "portaldot_v3_test"
+      },
+      "bitcoinInfo": null,
+      "tonInfo": null,
+      "cardanoInfo": null
+    }
+  },
+  "ChainInfoHashMap": {
+    "portaldot_v3_test": ""
+  },
   "ChainAsset": {
     "binance-ERC20-USDT-0x55d398326f99059fF775485246999027B3197955": {
-    "originChain": "binance",
-    "slug": "binance-ERC20-USDT-0x55d398326f99059fF775485246999027B3197955",
-    "name": "Binance-Peg BSC-USD",
-    "symbol": "USDT",
-    "decimals": 18,
-    "priceId": null,
-    "minAmount": null,
-    "assetType": "ERC20",
-    "metadata": {
-      "contractAddress": "0x55d398326f99059fF775485246999027B3197955"
+      "originChain": "binance",
+      "slug": "binance-ERC20-USDT-0x55d398326f99059fF775485246999027B3197955",
+      "name": "Binance-Peg BSC-USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "priceId": null,
+      "minAmount": null,
+      "assetType": "ERC20",
+      "metadata": {
+        "contractAddress": "0x55d398326f99059fF775485246999027B3197955"
+      },
+      "multiChainAsset": null,
+      "hasValue": false,
+      "icon": "https://cdn.githubraw.com/portaldotVolunteer/wallet-list/main/patch/patch-assets-icon/binance-erc20-usdt-0x55d398326f99059ff775485246999027b3197955.png"
     },
-    "multiChainAsset": null,
-    "hasValue": false,
-    "icon": "https://cdn.githubraw.com/portaldotVolunteer/wallet-list/main/patch/patch-assets-icon/binance-erc20-usdt-0x55d398326f99059ff775485246999027b3197955.png"
-  }
+    "portaldot_v3_test-NATIVE-tPOT": {
+      "originChain": "portaldot_v3_test",
+      "slug": "portaldot_v3_test-NATIVE-tPOT",
+      "name": "Portaldot V3 Testnet",
+      "symbol": "tPOT",
+      "decimals": 14,
+      "priceId": null,
+      "minAmount": "10000000000000",
+      "assetType": "NATIVE",
+      "metadata": null,
+      "multiChainAsset": null,
+      "hasValue": false,
+      "icon": "https://cdn.githubraw.com/fsnick169/wallet-info/main/icons/assets/portaldot-native-pot.png"
+    }
   },
   "ChainAssetHashMap": {
-    "binance-ERC20-USDT-0x55d398326f99059fF775485246999027B3197955": "8eeabb5236970184690d0331f0f87b8f"
+    "binance-ERC20-USDT-0x55d398326f99059fF775485246999027B3197955": "8eeabb5236970184690d0331f0f87b8f",
+    "portaldot_v3_test-NATIVE-tPOT": ""
   },
   "MultiChainAsset": {},
   "MultiChainAssetHashMap": {},
   "AssetLogoMap": {
-    "binance-erc20-usdt-0x55d398326f99059ff775485246999027b3197955": "https://cdn.githubraw.com/portaldotVolunteer/wallet-list/main/patch/patch-assets-icon/binance-erc20-usdt-0x55d398326f99059ff775485246999027b3197955.png"
+    "binance-erc20-usdt-0x55d398326f99059ff775485246999027b3197955": "https://cdn.githubraw.com/portaldotVolunteer/wallet-list/main/patch/patch-assets-icon/binance-erc20-usdt-0x55d398326f99059ff775485246999027b3197955.png",
+    "portaldot_v3_test-native-tpot": "https://cdn.githubraw.com/fsnick169/wallet-info/main/icons/assets/portaldot-native-pot.png"
   },
   "ChainLogoMap": {},
   "mAssetLogoMap": {}

@@ -75,7 +75,7 @@
     }
   },
   "ChainInfoHashMap": {
-    "portaldot_v3": "",
+    "portaldot_v3": "b86cc1e99f011ab141a46e9fdb2dd2c2",
     "portaldot_v3_test": "60f6d3f9bbe8ed766536fe14b9be5134"
   },
   "ChainAsset": {
@@ -125,7 +125,7 @@
     }
   },
   "ChainAssetHashMap": {
-    "portaldot_v3-NATIVE-POT": "",
+    "portaldot_v3-NATIVE-POT": "51f3a35434ab6a8a7db586ce1fe206f0",
     "portaldot_v3_test-NATIVE-tPOT": "4a65ed99f377026bfe0f3eab0045c9ab",
     "binance-ERC20-USDT-0x55d398326f99059fF775485246999027B3197955": "8eeabb5236970184690d0331f0f87b8f"
   },

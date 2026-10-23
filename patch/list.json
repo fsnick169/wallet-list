@@ -43,7 +43,7 @@
       "name": "Portaldot V3 Testnet",
       "isTestnet": false,
       "chainStatus": "ACTIVE",
-      "icon": "https://cdn.githubraw.com/fsnick169/wallet-list/main/icons/chains/portaldot.png",
+      "icon": "https://cdn.githubraw.com/fsnick169/wallet-list/main/patch/patch-chains-icon/portaldot-v3-test.png",
       "providers": {
         "Testnet-Node": "wss://test-node-v3.portaldot.dev"
       },
@@ -138,7 +138,7 @@
   },
   "ChainLogoMap": {
     "portaldot_v3": "https://cdn.githubraw.com/fsnick169/wallet-list/main/icons/chains/portaldot.png",
-    "portaldot_v3_test": "https://cdn.githubraw.com/fsnick169/wallet-list/main/icons/chains/portaldot.png"
+    "portaldot_v3_test": "https://cdn.githubraw.com/fsnick169/wallet-list/main/patch/patch-chains-icon/portaldot-v3-test.png"
   },
   "mAssetLogoMap": {}
 }

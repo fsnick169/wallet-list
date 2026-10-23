@@ -8,7 +8,7 @@
       "name": "Portaldot V3",
       "isTestnet": false,
       "chainStatus": "ACTIVE",
-      "icon": "https://cdn.githubraw.com/fsnick169/wallet-list/main/icons/chains/portaldot.png",
+      "icon": "https://cdn.githubraw.com/fsnick169/wallet-list/main/patch/patch-chains-icon/portaldot_v3.png",
       "providers": {
         "Live-Node": "wss://live-v3-node.portaldot.dev"
       },
@@ -22,7 +22,7 @@
         "crowdloanUrl": null,
         "blockExplorer": "https://scanner-live-v3.portaldot.dev/",
         "existentialDeposit": "10000000000000",
-        "symbol": "POT",
+        "symbol": "POT-V3",
         "decimals": 14,
         "hasNativeNft": false,
         "supportStaking": true,
@@ -43,7 +43,7 @@
       "name": "Portaldot V3 Testnet",
       "isTestnet": false,
       "chainStatus": "ACTIVE",
-      "icon": "https://cdn.githubraw.com/fsnick169/wallet-list/main/patch/patch-chains-icon/portaldot-v3-test.png",
+      "icon": "https://cdn.githubraw.com/fsnick169/wallet-list/main/patch/patch-chains-icon/portaldot_v3_test.png",
       "providers": {
         "Testnet-Node": "wss://test-node-v3.portaldot.dev"
       },
@@ -57,7 +57,7 @@
         "crowdloanUrl": null,
         "blockExplorer": "https://scanner-testnet-v3.portaldot.dev/",
         "existentialDeposit": "10000000000000",
-        "symbol": "tPOT",
+        "symbol": "tPOT-V3",
         "decimals": 14,
         "hasNativeNft": false,
         "supportStaking": true,
@@ -83,7 +83,7 @@
       "originChain": "portaldot_v3",
       "slug": "portaldot_v3-NATIVE-POT",
       "name": "Portaldot V3",
-      "symbol": "POT",
+      "symbol": "POT-V3",
       "decimals": 14,
       "priceId": null,
       "minAmount": "10000000000000",
@@ -91,13 +91,13 @@
       "metadata": null,
       "multiChainAsset": null,
       "hasValue": false,
-      "icon": "https://cdn.githubraw.com/fsnick169/wallet-list/main/icons/assets/portaldot-native-pot.png"
+      "icon": "https://cdn.githubraw.com/fsnick169/wallet-list/main/patch/patch-chains-icon/portaldot_v3.png"
     },
     "portaldot_v3_test-NATIVE-tPOT": {
       "originChain": "portaldot_v3_test",
       "slug": "portaldot_v3_test-NATIVE-tPOT",
       "name": "Portaldot V3 Testnet",
-      "symbol": "tPOT",
+      "symbol": "tPOT-V3",
       "decimals": 14,
       "priceId": null,
       "minAmount": "10000000000000",
@@ -105,7 +105,7 @@
       "metadata": null,
       "multiChainAsset": null,
       "hasValue": false,
-      "icon": "https://cdn.githubraw.com/fsnick169/wallet-list/main/icons/assets/portaldot-native-pot.png"
+      "icon": "https://cdn.githubraw.com/fsnick169/wallet-list/main/patch/patch-chains-icon/portaldot_v3_test.png"
     },
     "binance-ERC20-USDT-0x55d398326f99059fF775485246999027B3197955": {
       "originChain": "binance",
@@ -133,12 +133,12 @@
   "MultiChainAssetHashMap": {},
   "AssetLogoMap": {
     "binance-erc20-usdt-0x55d398326f99059ff775485246999027b3197955": "https://cdn.githubraw.com/portaldotVolunteer/wallet-list/main/patch/patch-assets-icon/binance-erc20-usdt-0x55d398326f99059ff775485246999027b3197955.png",
-    "portaldot_v3-native-pot": "https://cdn.githubraw.com/fsnick169/wallet-list/main/icons/assets/portaldot-native-pot.png",
-    "portaldot_v3_test-native-tpot": "https://cdn.githubraw.com/fsnick169/wallet-list/main/patch/patch-assets-icon/portaldot_v3_test-native-tpot.png"
+    "portaldot_v3-native-pot": "https://cdn.githubraw.com/fsnick169/wallet-list/main/patch/patch-chains-icon/portaldot_v3_test.png",
+    "portaldot_v3_test-native-tpot": "https://cdn.githubraw.com/fsnick169/wallet-list/main/patch/patch-chains-icon/portaldot_v3_test.png"
   },
   "ChainLogoMap": {
-    "portaldot_v3": "https://cdn.githubraw.com/fsnick169/wallet-list/main/icons/chains/portaldot.png",
-    "portaldot_v3_test": "https://cdn.githubraw.com/fsnick169/wallet-list/main/patch/patch-chains-icon/portaldot-v3-test.png"
+    "portaldot_v3": "https://cdn.githubraw.com/fsnick169/wallet-list/main/patch/patch-chains-icon/portaldot_v3_test.png",
+    "portaldot_v3_test": "https://cdn.githubraw.com/fsnick169/wallet-list/main/patch/patch-chains-icon/portaldot_v3_test.png"
   },
   "mAssetLogoMap": {}
 }

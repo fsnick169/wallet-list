@@ -7,11 +7,11 @@
     "subtitle": "Portaldot Node Explorer",
     "is_substrate": null,
     "is_evm": null,
-    "is_featured": true,
+    "is_featured": false,
     "ordinal": 1,
     "desktop_mode": null,
     "icon": "https://cdn.githubraw.com/portaldotVolunteer/wallet-list/main/dapps/dapps-icon/icon-1.png",
-    "preview_image": "https://cdn.githubraw.com/portaldotVolunteer/wallet-list/main/dapps/dapps-image/image-1.png",
+    "preview_image": null,
     "chains": [
       "portaldot"
     ],
@@ -27,11 +27,11 @@
     "subtitle": "Portaldot Blockchain Explorer",
     "is_substrate": null,
     "is_evm": null,
-    "is_featured": true,
+    "is_featured": false,
     "ordinal": 2,
     "desktop_mode": null,
     "icon": "https://cdn.githubraw.com/portaldotVolunteer/wallet-list/main/dapps/dapps-icon/icon-2.png",
-    "preview_image": "https://cdn.githubraw.com/portaldotVolunteer/wallet-list/main/dapps/dapps-image/image-2.png",
+    "preview_image": null,
     "chains": [
       "portaldot"
     ],
@@ -87,11 +87,11 @@
     "subtitle": "Portaldot Bridge",
     "is_substrate": null,
     "is_evm": null,
-    "is_featured": true,
+    "is_featured": false,
     "ordinal": 5,
     "desktop_mode": null,
-    "icon": "https://cdn.githubraw.com/portaldotVolunteer/wallet-list/main/dapps/dapps-icon/icon-2.png",
-    "preview_image": "https://cdn.githubraw.com/portaldotVolunteer/wallet-list/main/dapps/dapps-image/image-2.png",
+    "icon": "https://cdn.githubraw.com/portaldotVolunteer/wallet-list/main/dapps/dapps-icon/portaldot-bridge.png",
+    "preview_image": null,
     "chains": [
       "portaldot_v3"
     ],

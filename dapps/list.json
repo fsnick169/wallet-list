@@ -1,45 +1,5 @@
 [
   {
-    "id": 1,
-    "title": "Portaldot Node Explorer",
-    "description": "Portaldot Node Explorer",
-    "url": "https://www.portaldot.io",
-    "subtitle": "Portaldot Node Explorer",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": false,
-    "ordinal": 1,
-    "desktop_mode": null,
-    "icon": "https://cdn.githubraw.com/portaldotVolunteer/wallet-list/main/dapps/dapps-icon/icon-1.png",
-    "preview_image": null,
-    "chains": [
-      "portaldot"
-    ],
-    "categories": [
-      "tool"
-    ]
-  },
-  {
-    "id": 2,
-    "title": "Portaldot Blockchain Explorer",
-    "description": "Portaldot Blockchain Explorer",
-    "url": "https://portalscan.portaldot.io",
-    "subtitle": "Portaldot Blockchain Explorer",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": false,
-    "ordinal": 2,
-    "desktop_mode": null,
-    "icon": "https://cdn.githubraw.com/portaldotVolunteer/wallet-list/main/dapps/dapps-icon/icon-2.png",
-    "preview_image": null,
-    "chains": [
-      "portaldot"
-    ],
-    "categories": [
-      "data"
-    ]
-  },
-  {
     "id": 3,
     "title": "Portaldot V3 Node Explorer",
     "description": "PortaldotV3 Node Explorer",

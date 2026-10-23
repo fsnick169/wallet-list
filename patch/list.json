@@ -151,7 +151,7 @@
   "AssetLogoMap": {
     "portaldot_v3-native-pot": "https://cdn.githubraw.com/fsnick169/wallet-list/main/patch/patch-chains-icon/portaldot_v3.png",
     "portaldot_v3_test-native-tpot": "https://cdn.githubraw.com/fsnick169/wallet-list/main/patch/patch-chains-icon/portaldot_v3_test.png",
-    "binance-erc20-wpot-0x123b057A772D463174fCFBF0f97E6ccDb166a999": "https://cdn.githubraw.com/fsnick169/wallet-list/main/patch/patch-assets-icon/binance-erc20-wpot-0x123b057A772D463174fCFBF0f97E6ccDb166a999.png",
+    "binance-erc20-wpot-0x123b057a772d463174fcfbf0f97e6ccdb166a999": "https://cdn.githubraw.com/fsnick169/wallet-list/main/patch/patch-assets-icon/binance-erc20-wpot-0x123b057A772D463174fCFBF0f97E6ccDb166a999.png",
     "binance-erc20-usdt-0x55d398326f99059ff775485246999027b3197955": "https://cdn.githubraw.com/portaldotVolunteer/wallet-list/main/patch/patch-assets-icon/binance-erc20-usdt-0x55d398326f99059ff775485246999027b3197955.png"
   },
   "ChainLogoMap": {
